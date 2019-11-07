@@ -1,0 +1,16 @@
+{
+  "name": "cs_githubpages_deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mailfolorunso.github.io/samplesite",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
